@@ -66,7 +66,10 @@
 <h2 align="center">📑 Random Quotes 📑</h2>
 
 <div align="right">
+
+
   ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=default&font=Gabrielle)
+  
 </div>
 
 
