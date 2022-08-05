@@ -68,7 +68,7 @@
 <div align="right">
 
 
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=default&font=Gabrielle)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default)
   
 </div>
 
